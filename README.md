@@ -5,7 +5,7 @@ The process of getting the answer is built on several stages which are executed 
 
 📡 **_Getting The Data_** - Crawling and scrapping a data filled web-site.  
 📋 **_Data Handling_** - Cleaning currupt vlaues and filling missing data.  
-📊 **_Visualization & Analyzation_** - Creating a clearer way to analyze and show the corraletions between the data properties.  
+📊 **_Visualization & Analyzation_** - Creating a clearer way to analyze and show the behaviors between the data properties.  
 🤖 **_Machine Learning_** - Creating a trained model which takes the data and predicts if a species will get extinct or not.   
 
 
