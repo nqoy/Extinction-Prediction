@@ -1,7 +1,7 @@
 # Data_Science_Project
 Reasech question: Can we predict the extintion of species?  
 
-The process of getting the answer is built on several stages which are executed with algorithmic functions in Python:  
+The process of getting the answer is built on several stages which are executed by algorithmic functions in Python:  
 
 1. Getting The Data - Crawling and scrapping a data filled web-site.
 2. Data Handling - Cleaning currupt vlaues and filling missing data.
