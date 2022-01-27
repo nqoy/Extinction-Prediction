@@ -6,4 +6,4 @@ The process of getting the answer is built on several stages which are executed 
 1. Getting The Data - Crawling and scrapping a data filled web-site.
 2. Data Handling - Cleaning currupt vlaues and filling missing data.
 3. Visualization And Analyzation - Visualizing the data for a clearer way to analyze and show corraletions between its properties.
-4. b<Machine Learning>b - Creating a trained model which takes the data and predicts if a species will get extinct or not. 
+4. br<Machine Learning>br - Creating a trained model which takes the data and predicts if a species will get extinct or not. 
