@@ -1,5 +1,5 @@
 # Data_Science_Project
-Reasech question: Can we predict the extintion of species?  
+**Can we predict the extintion of species?**  
 
 The process of getting the answer is built on several stages which are executed by algorithmic functions in Python:  
 
