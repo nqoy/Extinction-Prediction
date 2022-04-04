@@ -1,5 +1,7 @@
-# Data_Science_Project
-**Can we predict the extintion of species?**<br/>
+# Extinction-Prediction
+Data Science Project<br/>
+
+## Can we predict the extintion of species?
 
 The process of getting the answer is built on several stages which are executed by algorithmic functions in Python:<br/>
 
