@@ -11,7 +11,7 @@ The process of getting the answer is built on several stages which are executed 
 🤖 **_Machine Learning_** - Creating a trained model which takes the data and predicts if a species will get extinct or not.<br/> 
 
 ## Model Accuracy:
-Final model accuracy after feature engineering is ``93.96%.``
+Final model accuracy after feature engineering is ``93.96%``.
 
 ## Extinct to-be species by the model:
 ![image](https://github.com/nqoy/Extinction-Prediction/blob/main/%E2%80%8F%E2%80%8FPredictedToExtinct.JPG)
